@@ -1,10 +1,10 @@
-package com.github.lizeze.mybatisplusdemo;
+package com.github.lizeze.jpademo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MybatisPlusDemoApplicationTests {
+class JpademoApplicationTests {
 
     @Test
     void contextLoads() {
